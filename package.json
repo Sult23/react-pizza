@@ -1,7 +1,7 @@
 {
 	"name": "react-pizza",
 	"version": "0.1.0",
-	"homepage": "https://github.com/Sult23/react-pizza",
+	"homepage": "http://{Sult23}.github.io/{react-pizza}",
 	"private": true,
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.9.0",
