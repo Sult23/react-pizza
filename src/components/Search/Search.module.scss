@@ -1,0 +1,21 @@
+.root {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	width: 300px;
+	height: 40px;
+	padding: 0 10px;
+	border-radius: 8px;
+}
+
+.search {
+	max-width: 22px;
+}
+.exit {
+	max-width: 22px;
+}
+.input {
+	border: none;
+	font-size: 18px;
+}
