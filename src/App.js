@@ -1,9 +1,9 @@
 import React from 'react'
 import Header from './components/Header'
-import Home from './Pages/Home'
+import Home from './routes/Home'
 import { Routes, Route } from 'react-router-dom'
 import './scss/app.scss'
-import Basket from './Pages/Basket'
+import Basket from './routes/Basket'
 
 export const SearchContext = React.createContext()
 
